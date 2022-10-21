@@ -9,6 +9,7 @@ function App() {
         <button className="minus">- Минус</button>
         <button className="plus">Плюс +</button>
       </div>
+      <i>sadasd;amsldkasldkas</i>
     </div>
   );
 }
